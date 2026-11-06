@@ -13,3 +13,6 @@ DerivedData/
 
 # Dependencies
 Package.resolved
+
+# Sphinx
+docs/build/
